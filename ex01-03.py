@@ -1,5 +1,5 @@
 ##Page 27.
-##EXERCISE 1­3: TRI AND TRI AGAIN
+##EXERCISE 1-3: TRI AND TRI AGAIN
 ##Write a   t r i a n g l e ( )  function that will draw a triangle of a given “side length.”
 
 from turtle import *
