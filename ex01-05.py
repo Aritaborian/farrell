@@ -18,4 +18,4 @@ a = 5
 for i in range(60):
     square(a)
     rt(5)
-    a +=5
+    a += 5
