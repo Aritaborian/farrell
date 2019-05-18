@@ -1,5 +1,5 @@
 ##Page 32.
-##EXERCISE 1­5: TURTLE SPIRAL
+##EXERCISE 1-5: TURTLE SPIRAL
 ##Make a function to draw 60 squares, turning 5 degrees after each square
 ##and making each successive square bigger. Start at a l e n g t h  of 5 and
 ##increment 5 units every square. It should look like this...
