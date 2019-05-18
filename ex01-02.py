@@ -1,5 +1,5 @@
 ##Page 25.
-##EXERCISE 1­2: A CIRCLE OF SQUARES
+##EXERCISE 1-2: A CIRCLE OF SQUARES
 ##Write and run a function that draws 60 squares, turning right 5 degrees after
 ##each square. Use a loop! Your result should end up looking like this...
 
