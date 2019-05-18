@@ -1,5 +1,5 @@
 ##Page 33.
-##EXERCISE 1­6: A STAR IS BORN
+##EXERCISE 1-6: A STAR IS BORN
 ##First, write a “star” function that will draw a five­pointed star, like this...
 ##Next, write a function called s t a r S p i r a l ( )  that will draw a spiral of stars, like
 ##this...
