@@ -1,5 +1,5 @@
 ##Page 29.
-##EXERCISE 1­4: POLYGON FUNCTIONS
+##EXERCISE 1-4: POLYGON FUNCTIONS
 ##Write a function called p o l y g o n  that takes an integer as an argument and
 ##makes the turtle draw a polygon with that integer’s number of sides.
 
